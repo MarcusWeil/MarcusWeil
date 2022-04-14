@@ -11,9 +11,9 @@
 - 🎮 Apaixonado por jogos,livros e música.
 
 ### Frameworks:
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /></a>
+<a href="https://flutter.dev/?gclid=Cj0KCQjwjN-SBhCkARIsACsrBz5FV7wlz7yFU82K_KSGaSXqqBpwopsas0J6E-aaoyyiMJD9ry6vjAsaAqS4EALw_wcB&gclsrc=aw.ds" target="_blank"><img align="left" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /></a>
 
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/></a>
+<a href="https://angular.io/" target="_blank"><img align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/></a>
 <br>
 ### Languages and Tools:
 
@@ -51,14 +51,23 @@
     />
   </a>
 </p>
+<p align="center">
+    <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcusWeil&theme=tokyonight"/>
+  </p>
 <h3 align="center">Trabalhando em:</h3>
 
 <p align="center">
-  <a href="https://github.com/MarcusWeil/crud_and_dialoguebox">
+  <a href="https://github.com/MarcusWeil/crud_flutter">
     <img
       align="center"
       height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=MarcusWeil&repo=crud_and_dialoguebox&theme=tokyonight">
+      src="https://github-readme-stats.vercel.app/api/pin/?username=MarcusWeil&repo=crud_flutter&theme=tokyonight">
+    </img>
+   <a href="https://github.com/MarcusWeil/crud_flutter">
+    <img
+      align="center"
+      height="120em"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=MarcusWeil&repo=crud-product&theme=tokyonight">
     </img>
   </a>
 </p>
@@ -75,6 +84,11 @@
     <img
          align="center"
          src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
+  </a>
+      <a href="https://open.spotify.com/user/vinicciusplays?si=e237c37163104af7">
+    <img
+         align="center"
+         src="https://img.shields.io/badge/Spotify-1C1C1C?style=for-the-badge&logo=Spotify&logoColor=00FFFF"
   </a>
 </p>
 <h5 align="center">@MarcusWeil</h5>
