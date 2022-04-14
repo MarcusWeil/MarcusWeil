@@ -36,14 +36,14 @@
 ![Snake animation](https://github.com/MarcusWeil/MarcusWeil/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
-  <a href="https://github.com/MarcusWeil">
+  <a href="https://github.com/MarcusWeil" target="_blank">
     <img
       align="center"
       height="150em"
       src="https://github-readme-stats.vercel.app/api?username=MarcusWeil&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
     />
   </a>
-  <a href="https://github.com/MarcusWeil">
+  <a href="https://github.com/MarcusWeil" target="_blank">
     <img
       align="center"
       height="150em"
@@ -57,13 +57,13 @@
 <h3 align="center">Trabalhando em:</h3>
 
 <p align="center">
-  <a href="https://github.com/MarcusWeil/crud_flutter">
+  <a href="https://github.com/MarcusWeil/crud_flutter" target="_blank">
     <img
       align="center"
       height="120em"
       src="https://github-readme-stats.vercel.app/api/pin/?username=MarcusWeil&repo=crud_flutter&theme=tokyonight">
     </img>
-   <a href="https://github.com/MarcusWeil/crud_flutter">
+   <a href="https://github.com/MarcusWeil/crud_flutter" target="_blank">
     <img
       align="center"
       height="120em"
@@ -75,17 +75,17 @@
 <h3 align="center">Conexões:</h3>
 
 <p align="center">
-  <a href="https://www.instagram.com/vinny_weil/">
+  <a href="https://www.instagram.com/vinny_weil/" target="_blank">
     <img
       align="center"
       src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF"
     />
-  <a href="https://www.linkedin.com/in/marcusweil">
+  <a href="https://www.linkedin.com/in/marcusweil" target="_blank">
     <img
          align="center"
          src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
   </a>
-      <a href="https://open.spotify.com/user/vinicciusplays?si=e237c37163104af7">
+      <a href="https://open.spotify.com/user/vinicciusplays?si=e237c37163104af7" target="_blank">
     <img
          align="center"
          src="https://img.shields.io/badge/Spotify-1C1C1C?style=for-the-badge&logo=Spotify&logoColor=00FFFF"
