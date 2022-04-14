@@ -1,5 +1,15 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Bem vindo ao meu perfil</img>
+<p align="center">
+<br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px"><br><br>
+</p>
+
+## :floppy_disk: Sobre mim
+- 💻 Desenvolvedor Frontend utilizando Angular e Flutter desde 2021.
+- 💼 Atualmente estagiando desenvolvimento de software em <a href="https://www.fit-tecnologia.org.br/home">FIT - Instituto de Tecnologia.</a>
+- 🎓 Cursando sistemas de informação.
+- 🎮 Apaixonado por jogos,livros e música.
+
 ### Frameworks:
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /></a>
 
