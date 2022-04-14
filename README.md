@@ -2,13 +2,13 @@
 <p align="center">
 <br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px"><br><br>
 </p>
-<img src="logo-code.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="logo">
+
 ## :floppy_disk: Sobre mim
 - 💻 Desenvolvedor Frontend utilizando Angular e Flutter desde 2021.
 - 💼 Atualmente estagiando desenvolvimento de software em <a href="https://www.fit-tecnologia.org.br/home">FIT - Instituto de Tecnologia.</a>
 - 🎓 Cursando sistemas de informação.
 - 🎮 Apaixonado por jogos,livros e música.
-
+<img src="logo-code.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="logo">
 ### Frameworks:
 <a href="https://flutter.dev/?gclid=Cj0KCQjwjN-SBhCkARIsACsrBz5FV7wlz7yFU82K_KSGaSXqqBpwopsas0J6E-aaoyyiMJD9ry6vjAsaAqS4EALw_wcB&gclsrc=aw.ds" target="_blank"><img align="left" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /></a>
 
