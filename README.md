@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/MarcusWeil/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MarcusWeil/MarcusWeil/blob/output/github-contribution-grid-snake.svg)
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Olá, meu nome é Marcus Weil</h1></img>
 
 <p align="center">
