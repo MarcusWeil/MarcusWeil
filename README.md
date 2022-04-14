@@ -1,8 +1,32 @@
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Bem vindo ao meu perfil</img>
+### Frameworks:
+<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /></a>
+
+<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/></a>
+<br>
+### Languages and Tools:
+
+<a href="https://www.w3schools.com/js" target="_blank"><img align="left" alt="JS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
+
+<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="TS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a>
+
+<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
+
+<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
+
+<a href="https://dart.dev/" target="_blank"><img align="left" alt="Dart" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" /></a>
+
+<a href="https://desktop.github.com/"><img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" /></a>
+
+<br />
+<br />
+
+# Sobre meus projetos
 ![Snake animation](https://github.com/MarcusWeil/MarcusWeil/blob/output/github-contribution-grid-snake.svg)
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Olá, meu nome é Marcus Weil</h1></img>
 
 <p align="center">
-  <a href="https://github.com/seu-usuario">
+  <a href="https://github.com/MarcusWeil">
     <img
       align="center"
       height="150em"
@@ -17,7 +41,6 @@
     />
   </a>
 </p>
-
 <h3 align="center">Trabalhando em:</h3>
 
 <p align="center">
@@ -30,7 +53,7 @@
   </a>
 </p>
 
-<h3 align="center">Sobre mim:</h3>
+<h3 align="center">Conexões:</h3>
 
 <p align="center">
   <a href="https://www.instagram.com/vinny_weil/">
@@ -45,4 +68,3 @@
   </a>
 </p>
 <h5 align="center">@MarcusWeil</h5>
-</details>
