@@ -62,7 +62,7 @@
       height="120em"
       src="https://github-readme-stats.vercel.app/api/pin/?username=MarcusWeil&repo=crud_flutter&theme=tokyonight">
     </img>
-   <a href="https://github.com/MarcusWeil/crud_flutter" target="_blank">
+   <a href="https://github.com/MarcusWeil/CRUD-Product" target="_blank">
     <img
       align="center"
       height="120em"
