@@ -54,7 +54,13 @@
     <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcusWeil&theme=tokyonight"/>
   </p>
 <h3 align="center">Trabalhando em:</h3>
-
+  <p align="center">
+  <a href="https://github.com/MarcusWeil/User_CRUD_Flutter" target="_blank">
+    <img
+      align="center"
+      height="120em"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=MarcusWeil&repo=User_CRUD_Flutter&theme=tokyonight">
+    </img>
 <p align="center">
   <a href="https://github.com/MarcusWeil/crud_flutter" target="_blank">
     <img
