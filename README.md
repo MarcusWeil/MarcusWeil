@@ -55,11 +55,11 @@
   </p>
 <h3 align="center">Trabalhando em:</h3>
   <p align="center">
-  <a href="https://github.com/MarcusWeil/user_crud_flutter" target="_blank">
+  <a href="https://github.com/MarcusWeil/Weather-Display" target="_blank">
     <img
       align="center"
       height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=MarcusWeil&repo=user_crud_flutter&theme=tokyonight">
+      src="https://github-readme-stats.vercel.app/api/pin/?username=MarcusWeil&repo=Weather-Display&theme=tokyonight">
     </img>
 <p align="center">
   <a href="https://github.com/MarcusWeil/crud_flutter" target="_blank">
