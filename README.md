@@ -5,7 +5,7 @@
 
 ## :floppy_disk: Sobre mim
 - 💻 Desenvolvedor Frontend utilizando Angular e Flutter desde 2021.
-- 💼 Atualmente estagiando desenvolvimento de software em <a href="https://www.fit-tecnologia.org.br/home">FIT - Instituto de Tecnologia.</a>
+- 💼 Analista de desenvolvimento de Software Trainee <a href="https://www.fit-tecnologia.org.br/home">FIT - Instituto de Tecnologia.</a>
 - 🎓 Cursando sistemas de informação.
 - 🎮 Apaixonado por jogos, livros e música.
 <a><img src="logo-code.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="logo"></a>
