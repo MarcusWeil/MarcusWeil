@@ -32,50 +32,11 @@
 <br />
 
 # Sobre meus projetos
-![Snake animation](https://github.com/MarcusWeil/MarcusWeil/blob/output/github-contribution-grid-snake.svg)
-
-<p align="center">
-  <a href="https://github.com/MarcusWeil" target="_blank">
-    <img
-      align="center"
-      height="150em"
-      src="https://github-readme-stats.vercel.app/api?username=MarcusWeil&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
-    />
-  </a>
-  <a href="https://github.com/MarcusWeil" target="_blank">
-    <img
-      align="center"
-      height="150em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusWeil&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
-    />
-  </a>
-</p>
+<br />
+<br />
 <p align="center">
     <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcusWeil&theme=tokyonight"/>
   </p>
-<h3 align="center">Trabalhando em:</h3>
-  <p align="center">
-  <a href="https://github.com/MarcusWeil/Weather-Display" target="_blank">
-    <img
-      align="center"
-      height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=MarcusWeil&repo=Weather-Display&theme=tokyonight">
-    </img>
-<p align="center">
-  <a href="https://github.com/MarcusWeil/crud_flutter" target="_blank">
-    <img
-      align="center"
-      height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=MarcusWeil&repo=crud_flutter&theme=tokyonight">
-    </img>
-   <a href="https://github.com/MarcusWeil/CRUD-Product" target="_blank">
-    <img
-      align="center"
-      height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=MarcusWeil&repo=crud-product&theme=tokyonight">
-    </img>
-  </a>
-</p>
 
 <h3 align="center">Conexões:</h3>
 
