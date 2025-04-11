@@ -4,7 +4,7 @@
 </p>
 
 ## :floppy_disk: Sobre mim
-Atuo como desenvolvedor há 4 anos, com experiência tanto no frontend quanto no backend. Tenho conhecimentos sólidos em Angular e Flutter, mas com o tempo fui expandindo minha stack — hoje também desenvolvo com Go e utilizo Python para automação de tarefas rotineiras.
+Atuo como desenvolvedor há 4 anos, com experiência tanto no frontend quanto no backend. Tenho conhecimentos sólidos em Angular e Flutter, mas com o tempo fui expandindo minha stack — hoje também desenvolvo soluções backend utilizando GoLang e PrismaJS. Além disso, uso Python para automação de tarefas rotineiras.
 
 Tenho facilidade em transitar entre diferentes camadas de uma aplicação, desde a interface até a estrutura de dados. Gosto de escrever código limpo, entender o contexto do que estou construindo e colaborar para soluções eficientes e escaláveis.
 
