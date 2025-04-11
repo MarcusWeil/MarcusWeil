@@ -27,6 +27,8 @@ Tive a oportunidade de contribuir com empresas de grande porte como Flextronics,
 
 <a href="https://go.dev" target="_blank"><img align="left" alt="GoLang" width="36px" height="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" /></a>
 
+<a href="https://go.dev" target="_blank"><img align="left" alt="GoLang" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></a>
+
 <a href="https://desktop.github.com/"><img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" /></a>
 
 <br />
