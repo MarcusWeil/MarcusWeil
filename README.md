@@ -4,13 +4,13 @@
 </p>
 
 ## :floppy_disk: Sobre mim
-Atuo como desenvolvedor há 4 anos, com experiência tanto no frontend quanto no backend. Tenho conhecimentos sólidos em Angular e Flutter, mas com o tempo fui expandindo minha stack — hoje também desenvolvo soluções backend utilizando GoLang e PrismaJS. Além disso, uso Python para automação de tarefas rotineiras.
+Atuo como desenvolvedor há 5 anos, com experiência tanto no frontend quanto no backend. Tenho conhecimentos sólidos em Angular e Flutter, mas com o tempo fui expandindo minha stack — hoje também desenvolvo soluções backend utilizando GoLang e PrismaJS. Além disso, uso Python para automação de tarefas rotineiras.
 
 Tenho facilidade em transitar entre diferentes camadas de uma aplicação, desde a interface até a estrutura de dados. Gosto de escrever código limpo, entender o contexto do que estou construindo e colaborar para soluções eficientes e escaláveis.
 
-Já trabalhei em projetos web e mobile de diferentes tamanhos, desde sistemas internos usados no dia a dia das equipes até aplicações voltadas diretamente para o público final.
+Já trabalhei em projetos web e mobile de diferentes escalas, desde sistemas internos usados no dia a dia das equipes até aplicações voltadas diretamente para o público final.
 
-Tive a oportunidade de contribuir com empresas de grande porte como Flextronics, Nextracker e HP, desenvolvendo produtos escaláveis e responsivos usados por milhares de pessoas.
+Tive a oportunidade de contribuir com empresas de grande porte como Flextronics, Nextpower e HP, desenvolvendo produtos escaláveis e responsivos usados por milhares de pessoas.
 <a><img src="logo-code.svg" min-width="200px" max-width="250px" width="250px" align="right" alt="logo"></a>
 ### Frameworks:
 <a href="https://flutter.dev/?gclid=Cj0KCQjwjN-SBhCkARIsACsrBz5FV7wlz7yFU82K_KSGaSXqqBpwopsas0J6E-aaoyyiMJD9ry6vjAsaAqS4EALw_wcB&gclsrc=aw.ds" target="_blank"><img align="left" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /></a>
